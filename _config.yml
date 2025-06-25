@@ -1,5 +1,8 @@
-title: tonic-starter
-description: ""
+title: Possible
+description: Creating extraordinary digital experiences with Jekyll
 encoding: utf-8
 
+# Exclude from processing
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
+
+---
