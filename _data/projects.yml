@@ -1,0 +1,23 @@
+- name: Qodenest
+  description: A web-based coding platform with syntax highlighting and support for QBASIC.
+  url: https://github.com/Echoinbyte/qodenest
+
+- name: Notex
+  description: A minimal note-taking PWA focused on speed and simplicity using local storage.
+  url: https://github.com/Echoinbyte/notex
+
+- name: Termozet
+  description: A terminal-style personal portfolio that runs in the browser.
+  url: https://github.com/Echoinbyte/termozet
+
+- name: Possibleweb
+  description: A portfolio website template with a animative layout and modern design system.
+  url: https://github.com/Echoinbyte/possibleweb
+
+- name: Onetimex
+  description: A secure, temporary note sharing service for one-time reads (like Pastebin for secrets).
+  url: https://github.com/Echoinbyte/onetimex
+
+- name: FeasibleyNavigate
+  description: A user script to improve any website navigation UX with keyboard shortcuts and smart scrolling.
+  url: https://github.com/Echoinbyte/feasibleyNavigate
